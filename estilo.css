@@ -1,0 +1,14 @@
+h1, h2{
+    font-family: Arial;
+    font-style: bold;
+}
+
+a, label{
+    font-family: Arial;
+    font-size: medium;
+}
+
+p{
+    font-family: Arial;
+    font-size: large;
+}
